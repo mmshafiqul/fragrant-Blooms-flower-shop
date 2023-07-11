@@ -105,3 +105,59 @@ header {
 }
 
 /* featured section end */
+
+/* who we are section start */
+.we-are {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin: 100px 250px 0px 250px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+
+/* who we are section end */
+
+/* deal section start */
+.deal {
+    background-color: #E0B0FF;
+    display: flex;
+    height: 520px;
+    border-radius: 8px;
+    justify-content: space-around;
+    margin-top: 100px;
+    padding-top: 200px;
+
+
+}
+
+.deal-texts {
+    text-align: center;
+
+}
+
+.off {
+    color: #E55473;
+}
+
+.deal-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.deal-description {
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
