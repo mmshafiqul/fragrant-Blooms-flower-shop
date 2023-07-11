@@ -228,3 +228,33 @@ input {
     font-size: 18px;
     font-weight: 400;
 }
+
+/* get deals section end */
+
+/* footer section start */
+footer {
+    background-color: #E0B0FF;
+    height: 350px;
+    background-position: cover;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.color-text{
+    color: #E55473;
+
+}
+
+.logo {
+    font-size: 48px;
+    font-weight: 800;
+}
+.footer-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+/* footer section end */
