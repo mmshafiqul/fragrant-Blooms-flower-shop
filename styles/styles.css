@@ -95,13 +95,35 @@ header {
 
 }
 
-.flower-pic {
+
+.flower-pic1 {
+    width: 310px;
+    height: 428px;
+    border-radius: 5px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 25px 25px 0px 25px;
+
+}
+
+.flower-pic2 {
     width: 310px;
     height: 428px;
     border-radius: 5px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     padding: 25px 25px 0px 25px;
+
+}
+
+.flower-pic3 {
+    width: 310px;
+    height: 428px;
+    border-radius: 5px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 25px 25px 0px 25px;
+
 }
 
 /* featured section end */
@@ -243,7 +265,7 @@ footer {
 
 }
 
-.color-text{
+.color-text {
     color: #E55473;
 
 }
@@ -252,10 +274,12 @@ footer {
     font-size: 48px;
     font-weight: 800;
 }
-.footer-description{
+
+.footer-description {
     color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-size: 18px;
-font-weight: 400;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
 }
+
 /* footer section end */
